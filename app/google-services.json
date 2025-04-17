@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37877285018",
+    "project_id": "avempace-a5938",
+    "storage_bucket": "avempace-a5938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37877285018:android:b758c80679089754405f23",
+        "android_client_info": {
+          "package_name": "com.android.avempace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37877285018-jlh99pdiq44h7ebhm0kmr9uio00h2und.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBceuZhlyZTR2AtcLaxEY0Vni7KxS4pbqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37877285018-jlh99pdiq44h7ebhm0kmr9uio00h2und.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
